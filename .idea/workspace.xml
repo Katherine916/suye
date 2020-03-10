@@ -2,20 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/bicycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/tets-sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/magicians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/test41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestDemo/test_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestDemo/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestDemo/test_sysexit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/motorcycles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/test31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/suye.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/bicycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/three/bicycles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/test_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/four/foods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/tets-sample.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="suye" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,15 +42,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pytestDemo/test_sample.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1UrVv9CeXlx7LEd3LOBJv82ULNM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/software/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ToolWindowTODO.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="suye" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
         <option name="myUseModuleSdk" value="true" />
         <option name="myModuleName" value="suye" />
       </console-settings>
@@ -44,6 +65,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\suye\three" />
       <recent name="D:\pythonProject\suye" />
     </key>
   </component>
@@ -59,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tets-sample">
+  <component name="RunManager" selected="Python.test4">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bicycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="foods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/three" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/three/bicycles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/foods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/players.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/name_cases.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tets-sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test41" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/three" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/three/tets-sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/test41.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +210,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.test1" />
-      <item itemvalue="Python.name" />
-      <item itemvalue="Python.name_cases" />
-      <item itemvalue="Python.bicycles" />
-      <item itemvalue="Python.tets-sample" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.squares" />
+      <item itemvalue="Python.players" />
+      <item itemvalue="Python.foods" />
+      <item itemvalue="Python.test41" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tets-sample" />
-        <item itemvalue="Python.bicycles" />
-        <item itemvalue="Python.name_cases" />
-        <item itemvalue="Python.name" />
-        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.test41" />
+        <item itemvalue="Python.foods" />
+        <item itemvalue="Python.players" />
+        <item itemvalue="Python.squares" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +237,14 @@
       <option name="presentableId" value="Default" />
       <updated>1576114928581</updated>
     </task>
+    <task id="LOCAL-00001" summary="new test_class">
+      <created>1578999338147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578999338147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,5 +259,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new test_class" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test_class" />
   </component>
 </project>
