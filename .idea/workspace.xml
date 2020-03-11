@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/four/magicians.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/four/number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/four/players.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/four/squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/four/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/four/test41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestDemo/test_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestDemo/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytestDemo/test_sysexit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/motorcycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/test31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/suye.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three/bicycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/three/bicycles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three/test_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/four/foods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three/tets-sample.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583895405095</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0311">
+      <created>1583897188488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583897188489</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,10 +266,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583895479616" />
-    <state x="553" y="99" key="CommitChangelistDialog2" timestamp="1583895404277">
+    <state x="553" y="99" key="CommitChangelistDialog2" timestamp="1583897187585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="553" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583895404277" />
+    <state x="553" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583897187585" />
+    <state x="184" y="84" key="DiffContextDialog" timestamp="1583897175309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="84" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583897175309" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583895231689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
