@@ -22,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/three/test_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/four/foods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/three/tets-sample.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +48,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -69,19 +74,7 @@
       <recent name="D:\pythonProject\suye" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.test4">
+  <component name="RunManager" selected="Python.conditional_tests">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="foods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="banner_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/foods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/banner_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="conditional_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/conditional_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dimensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/dimensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test41" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/four" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/four/test41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,19 +203,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.test4" />
-      <item itemvalue="Python.squares" />
-      <item itemvalue="Python.players" />
-      <item itemvalue="Python.foods" />
-      <item itemvalue="Python.test41" />
+      <item itemvalue="Python.dimensions" />
+      <item itemvalue="Python.cars" />
+      <item itemvalue="Python.toppings" />
+      <item itemvalue="Python.banner_users" />
+      <item itemvalue="Python.conditional_tests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test4" />
-        <item itemvalue="Python.test41" />
-        <item itemvalue="Python.foods" />
-        <item itemvalue="Python.players" />
-        <item itemvalue="Python.squares" />
+        <item itemvalue="Python.conditional_tests" />
+        <item itemvalue="Python.banner_users" />
+        <item itemvalue="Python.toppings" />
+        <item itemvalue="Python.cars" />
+        <item itemvalue="Python.dimensions" />
       </list>
     </recent_temporary>
   </component>
@@ -263,5 +256,47 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new test_class" />
     <option name="LAST_COMMIT_MESSAGE" value="new test_class" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1583895295265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1583895295265" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583895231689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583895231689" />
+    <state width="1899" height="427" key="GridCell.Tab.0.bottom" timestamp="1583855846177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583855846177" />
+    <state width="1899" height="427" key="GridCell.Tab.0.center" timestamp="1583855846177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583855846177" />
+    <state width="1899" height="427" key="GridCell.Tab.0.left" timestamp="1583855846177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583855846177" />
+    <state width="1899" height="427" key="GridCell.Tab.0.right" timestamp="1583855846177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583855846177" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583895257181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583895257181" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583895272929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583895272929" />
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1583895360347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583895360347" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583853485345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583853485345" />
   </component>
 </project>
