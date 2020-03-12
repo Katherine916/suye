@@ -18,4 +18,4 @@ elif age <18:
     price = 5
 else:
     price = 10
-print("You admission cost is $"+str(price))
+print("You admission cost is $"+str(price)+"!!!")

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/five/amusement_park.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/suye.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/voting.py" beforeDir="false" afterPath="$PROJECT_DIR$/first/voting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/five/amusement_park.py" beforeDir="false" afterPath="$PROJECT_DIR$/five/amusement_park.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -58,6 +60,18 @@
       <recent name="D:\pythonProject\suye\three" />
       <recent name="D:\pythonProject\suye" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.amusement_park">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -188,11 +202,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.toppings" />
+      <item itemvalue="Python.amusement_park" />
       <item itemvalue="Python.banner_users" />
       <item itemvalue="Python.conditional_tests" />
+      <item itemvalue="Python.toppings" />
       <item itemvalue="Python.voting" />
-      <item itemvalue="Python.amusement_park" />
     </list>
     <recent_temporary>
       <list>
