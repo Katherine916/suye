@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/five/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/five/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/five/toppings.py" beforeDir="false" afterPath="$PROJECT_DIR$/five/toppings.py" afterDir="false" />
-    </list>
+    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../yxda" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -305,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584008617601</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="if语句使用demo">
+      <created>1584070365649</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584070365649</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +332,8 @@
     <MESSAGE value="苏叶2318" />
     <MESSAGE value="验证提交" />
     <MESSAGE value="03121823" />
-    <option name="LAST_COMMIT_MESSAGE" value="03121823" />
+    <MESSAGE value="if语句使用demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="if语句使用demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" />
