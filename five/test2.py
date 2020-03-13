@@ -10,4 +10,10 @@ elif 20<age<=65:
 elif 65<age:
     print("老年人")
 
-fruits = ["strawberry","grapefruit","",""]
+fruits = ["strawberry","grapefruit","bananas"]
+if "strawberry" in fruits:
+    print("You really like strawberry!")
+if "grapefruit" in fruits:
+    print("You really like grapefruit!")
+if "bananas" in fruits:
+    print("You really like bananas!")
