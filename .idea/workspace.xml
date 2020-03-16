@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="" />
+    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/five/test510.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/five/test511.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/align.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/aligns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/test61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/test62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/test65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/five/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/five/test3.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.toppings">
+  <component name="RunManager" selected="Python.aligns">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aligns" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/amusement_park.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/aligns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="favorite_languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/favorite_languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test62" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/test62.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test65" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five/toppings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/test65.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="voting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/voting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,19 +209,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.toppings" />
-      <item itemvalue="Python.voting" />
-      <item itemvalue="Python.amusement_park" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.favorite_languages" />
+      <item itemvalue="Python.test62" />
+      <item itemvalue="Python.user" />
+      <item itemvalue="Python.test65" />
+      <item itemvalue="Python.aligns" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.toppings" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.amusement_park" />
-        <item itemvalue="Python.voting" />
+        <item itemvalue="Python.aligns" />
+        <item itemvalue="Python.test65" />
+        <item itemvalue="Python.favorite_languages" />
+        <item itemvalue="Python.user" />
+        <item itemvalue="Python.test62" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584070365649</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="if语句使用demo">
+      <created>1584070528436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584070528436</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
