@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seven/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seven/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seven/parrot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seven/rollercoaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seven/test71.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/suye.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
+    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="seven">
+      <change afterPath="$PROJECT_DIR$/seven/counting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seven/parrot.py" beforeDir="false" afterPath="$PROJECT_DIR$/seven/parrot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seven/test71.py" beforeDir="false" afterPath="$PROJECT_DIR$/seven/test71.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <recent name="D:\pythonProject\suye" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test71">
+  <component name="RunManager" selected="Python.parrot">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +74,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="counting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="suye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seven" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seven/counting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="parrot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="suye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,28 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seven/greeter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rollercoaster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="suye" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seven" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seven/rollercoaster.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seven/parrot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +189,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.greeter" />
-      <item itemvalue="Python.rollercoaster" />
       <item itemvalue="Python.even_or_odd" />
       <item itemvalue="Python.even_or_odd (1)" />
       <item itemvalue="Python.test71" />
+      <item itemvalue="Python.counting" />
+      <item itemvalue="Python.parrot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.parrot" />
+        <item itemvalue="Python.counting" />
         <item itemvalue="Python.test71" />
         <item itemvalue="Python.even_or_odd (1)" />
         <item itemvalue="Python.even_or_odd" />
-        <item itemvalue="Python.rollercoaster" />
-        <item itemvalue="Python.greeter" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584372803832</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="seven">
+      <created>1584887583817</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584887583817</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,37 +346,42 @@
     <MESSAGE value="验证提交" />
     <MESSAGE value="03121823" />
     <MESSAGE value="if语句使用demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="if语句使用demo" />
+    <MESSAGE value="seven" />
+    <option name="LAST_COMMIT_MESSAGE" value="seven" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1584857414650" />
     <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
-    <state x="553" y="99" key="CommitChangelistDialog2" timestamp="1584857414650" />
-    <state x="553" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
+    <state x="553" y="99" key="CommitChangelistDialog2" timestamp="1584975260812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584975260812" />
     <state x="184" y="84" key="DiffContextDialog" timestamp="1584857414650" />
     <state x="184" y="84" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584857414650" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
-    <state width="1899" height="427" key="GridCell.Tab.0.bottom" timestamp="1584870020509">
+    <state width="1899" height="427" key="GridCell.Tab.0.bottom" timestamp="1584975737414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584870020509" />
-    <state width="1899" height="427" key="GridCell.Tab.0.center" timestamp="1584870020509">
+    <state width="1899" height="427" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584975737414" />
+    <state width="1899" height="427" key="GridCell.Tab.0.center" timestamp="1584975737414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584870020509" />
-    <state width="1899" height="427" key="GridCell.Tab.0.left" timestamp="1584870020508">
+    <state width="1899" height="427" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584975737414" />
+    <state width="1899" height="427" key="GridCell.Tab.0.left" timestamp="1584975737414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584870020508" />
-    <state width="1899" height="427" key="GridCell.Tab.0.right" timestamp="1584870020509">
+    <state width="1899" height="427" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584975737414" />
+    <state width="1899" height="427" key="GridCell.Tab.0.right" timestamp="1584975737414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584870020509" />
+    <state width="1899" height="427" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584975737414" />
     <state x="461" y="162" width="996" height="716" key="SettingsEditor" timestamp="1584857414650" />
     <state x="461" y="162" width="996" height="716" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584857414650" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584887594385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584887594385" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584857414650" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584857414650" />
     <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1584857414650" />
