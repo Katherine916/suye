@@ -27,25 +27,7 @@ delete_url = 'http://elephant-image-fat.phoenix-t.xforceplus.com/data/{}'
 # delete_url = 'https://fsscscpuat-image.wilmar.cn/data/{}'
 
 
-api_dict = {
-    'label': 'label',
-    'image': 'image',  # 影像
-    'ticket': 'ticket',  # 单证
-    'ticketInvoice': 'ticketInvoice',  # 增值税发票
-    'ticketTrain': 'ticketTrain',
-    'ticketMany': 'ticketMany',
-    'ticketAttachment': 'ticketAttachment',
-    'ticketTaxi': 'ticketTaxi',
-    'baseBill': 'baseBill',
-    'salesBill': 'salesBill',
-    'billTicketRelation':'billTicketRelation',
-    'billTicketRelation':'billTicketRelation',          #单据单证复用关系表
-    'ticketSourceFile':'ticketSourceFile',               #电票源文件
-    'ticketInvoiceDetail':'ticketInvoiceDetail',        #增值税发票明细
-    'ticketPlaneDetail':'ticketPlaneDetail',            #飞机票明细
-    'ticketMachineDetail':'ticketMachineDetail',        #通用机打发票明细
 
-}
 
 checkdata = []
 
