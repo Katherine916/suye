@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="seven">
-      <change afterPath="$PROJECT_DIR$/Buganalyze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/suye.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/suye.iml" afterDir="false" />
+    <list default="true" id="593c9cfd-d7dd-4ecf-b58f-4654df28aefa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/delete_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="F:/ProjectAutoTest/shimao-image-cloudtest-api" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -334,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584373088682</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="删除数据脚本">
+      <created>1590823641795</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590823641795</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +365,8 @@
     <MESSAGE value="03121823" />
     <MESSAGE value="if语句使用demo" />
     <MESSAGE value="six" />
-    <option name="LAST_COMMIT_MESSAGE" value="six" />
+    <MESSAGE value="删除数据脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除数据脚本" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" />
